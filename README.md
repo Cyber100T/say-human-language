@@ -1,6 +1,6 @@
 # Say Human Language
 
-面向 Coding Agent 的工程沟通技能。帮助你用具体、自然的语言写清变更、证据和验证范围。
+面向 Coding Agent 的工程沟通Skill。帮助你用具体、自然的语言写清变更、证据和验证范围。
 
 适用于 README、用户手册、Issue、PR、代码审查、发布说明和任务交付。纯代码实现通常无需加载。
 
