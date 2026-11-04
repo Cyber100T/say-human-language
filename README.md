@@ -21,3 +21,7 @@
 [对照用例](EVALS.md)提供测试输入和验收条件。不同工具中的模型表现和自动触发仍待实测。
 
 提交反馈时，请附上工具与模型版本、技能调用方式、可复现的提示和实际输出。涉及写作规则的改动，可以在 PR 中附一组输入和预期输出。
+
+## 共同作者
+
+Say Human Language 由 [SiLenT_BlizZ](https://github.com/SiLenTBlizZ) 和 [Yuzheng1ong](https://github.com/Yuzheng1ong) 共同创作。
